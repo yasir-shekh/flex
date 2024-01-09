@@ -263,10 +263,10 @@ h3 {
   display: block;
 }
 .swiper-button-next::after{
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 .swiper-button-prev::after{
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 #button-slider-wweewe {
   top: 137px !important;
@@ -412,6 +412,7 @@ h3 {
     border-radius: 50%;
     color: white;
   }
+
 }
 
 @media (min-width: 1200px) {
@@ -426,6 +427,7 @@ h3 {
   }
   .width-108 {
     width: 108%;
+    margin: 0px 0 0 -45px;
   }
   #button-slider-wweewe {
     background-color: var(--orange);
